@@ -1,0 +1,25 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+.tool-versions
+*-config
+
+# subdirectories 131 132 133
+131/.terraform/
+131/terraform.tfstate
+131/terraform.tfstate.backup
+131/.terraform.lock.hcl
+131/*-config
+
+132/.terraform/
+132/terraform.tfstate
+132/terraform.tfstate.backup
+132/.terraform.lock.hcl
+132/*-config
+
+133/.terraform/
+133/terraform.tfstate
+133/terraform.tfstate.backup
+133/.terraform.lock.hcl
+133/*-config
